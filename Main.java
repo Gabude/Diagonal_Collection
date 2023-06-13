@@ -1,6 +1,5 @@
 package Online_Space.Apt.Diagonal_Collection;
 
-import Online_Space.Apt.TrappingRainWater_2;
 
 public class Main {
     public static void main(String[] args)
